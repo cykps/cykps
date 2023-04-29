@@ -1,21 +1,8 @@
-<div><a style="margin=0" href="https://github.com/anuraghazra/github-readme-stats"><img height="170px" style="max-width:95%" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cykps&show_icons=true&theme=blueberry&border_color=374360"></a>
+<div>
 
-[![](https://raw.githubusercontent.com/cykps/cykps/main/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/cykps/cykps/main/profile-summary-card-output/blueberry/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cykps/cykps/main/profile-summary-card-output/blueberry/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<a style="margin=0" href="https://github.com/anuraghazra/github-readme-stats"><img height="170px" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cykps&show_icons=true&theme=blueberry&border_color=374360"></a>
+
+[![](https://raw.githubusercontent.com/cykps/cykps/main/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)    [![](https://raw.githubusercontent.com/cykps/cykps/main/profile-summary-card-output/blueberry/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cykps/cykps/main/profile-summary-card-output/blueberry/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/cykps/cykps/main/profile-summary-card-output/blueberry/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cykps/cykps/main/profile-summary-card-output/blueberry/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 </div>
-
-<!--
-**cykps/cykps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
