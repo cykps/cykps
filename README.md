@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cykps&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![a](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cykps&theme=tokyonight)
+
 
 <!--
 **cykps/cykps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
