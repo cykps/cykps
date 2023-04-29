@@ -1,4 +1,4 @@
-<div><a style="margin=0" href="https://github.com/anuraghazra/github-readme-stats"><img height="170px" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cykps&show_icons=true&theme=blueberry&border_color=374360"></a>
+<div><a style="margin=0" href="https://github.com/anuraghazra/github-readme-stats"><img height="170px" style="max-width:100%" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cykps&show_icons=true&theme=blueberry&border_color=374360"></a>
 
 [![](https://raw.githubusercontent.com/cykps/cykps/main/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/cykps/cykps/main/profile-summary-card-output/blueberry/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cykps/cykps/main/profile-summary-card-output/blueberry/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
