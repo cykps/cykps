@@ -1,14 +1,4 @@
 <div style="display:flex;">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150px" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cykps&show_icons=true&theme=blueberry&border_color=374360"></a>
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img height="150px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cykps&layout=compact&theme=blueberry&border_color=374360"></a>
-</div>
-
-<div style="display:flex;">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="160px" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cykps&show_icons=true&theme=blueberry&border_color=374360"></a>
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img height="160px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cykps&layout=compact&theme=blueberry&border_color=374360"></a>
-</div>
-
-<div style="display:flex;">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img height="170px" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cykps&show_icons=true&theme=blueberry&border_color=374360"></a>
 	<a href="https://github.com/anuraghazra/github-readme-stats"><img height="170px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cykps&layout=compact&theme=blueberry&border_color=374360"></a>
 </div>
