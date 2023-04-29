@@ -3,6 +3,16 @@
 	<a href="https://github.com/anuraghazra/github-readme-stats"><img height="150px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cykps&layout=compact&theme=blueberry&border_color=374360"></a>
 </div>
 
+<div style="display:flex;">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="160px" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cykps&show_icons=true&theme=blueberry&border_color=374360"></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img height="160px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cykps&layout=compact&theme=blueberry&border_color=374360"></a>
+</div>
+
+<div style="display:flex;">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="170px" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cykps&show_icons=true&theme=blueberry&border_color=374360"></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img height="170px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cykps&layout=compact&theme=blueberry&border_color=374360"></a>
+</div>
+
 [![](https://raw.githubusercontent.com/cykps/cykps/main/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/cykps/cykps/main/profile-summary-card-output/blueberry/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cykps/cykps/main/profile-summary-card-output/blueberry/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/cykps/cykps/main/profile-summary-card-output/blueberry/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cykps/cykps/main/profile-summary-card-output/blueberry/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
